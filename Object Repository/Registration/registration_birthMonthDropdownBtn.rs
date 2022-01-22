@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>registration_birthMonthDropdownBtn</name>
+   <tag></tag>
+   <elementGuidId>68f136fa-971d-4cd7-9526-48e27fb37638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='combinedRegistrationForm__wtcth_combinedRegistrationForm_step4__14__dateOfBirth__MM']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

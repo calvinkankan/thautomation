@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe__sp-fancybox-iframe sp-fancybox-skin sp-fancybox-iframe-170</name>
+   <tag></tag>
+   <elementGuidId>7b8df617-a6eb-40bf-b04e-5f57097f8bff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iframe.sp-fancybox-iframe.sp-fancybox-skin.sp-fancybox-iframe-170</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[9]/iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>classname</name>
+      <type>Main</type>
+      <value>sp-fancybox-iframe sp-fancybox-skin sp-fancybox-iframe-170</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sp-fancybox-iframe sp-fancybox-skin sp-fancybox-iframe-170</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://watsonstest.api.useinsider.com/api/info/frame?id=170&amp;version=1610595695</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;page-iwaMyBasketPage pageType-ContentPage template-pages/cart/cartPage pageLabel-/mybasket smartedit-page-uid-iwaMyBasketPage smartedit-page-uuid-eyJpdGVtSWQiOiJpd2FNeUJhc2tldFBhZ2UiLCJjYXRhbG9nSWQiOiJoeWJyaXNDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0= smartedit-catalog-version-uuid-hybrisContentCatalog/Online language-en disabled&quot;]/div[@class=&quot;sp-fancybox-wrap sp-fancybox-wrap-170 sp-advanced-css-170 annie&quot;]/iframe[@class=&quot;sp-fancybox-iframe sp-fancybox-skin sp-fancybox-iframe-170&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/iframe</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>must be on top</description>
+   <name>PT - Member Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d23b625-f1ae-4e81-8b0e-9149157c2734</testCaseGuid>
+   <variable>
+      <defaultValue>'autotesting@varmeego.com'</defaultValue>
+      <description></description>
+      <id>d62ffa29-a6b7-4fee-924f-072860b00619</id>
+      <masked>false</masked>
+      <name>login_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Aa111111'</defaultValue>
+      <description></description>
+      <id>79cd5624-bce5-4f1c-a970-4507589cf37d</id>
+      <masked>false</masked>
+      <name>login_password</name>
+   </variable>
+</TestCaseEntity>

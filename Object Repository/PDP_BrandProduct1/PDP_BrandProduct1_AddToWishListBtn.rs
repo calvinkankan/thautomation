@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PDP_BrandProduct1_AddToWishListBtn</name>
+   <tag></tag>
+   <elementGuidId>da990808-f58e-43b5-a0aa-bf4605036bda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.wishlist-icon.wishlist-icon-pdp.icon-icon_wishlist</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//e2-add-to-wishlist</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wishlist-icon wishlist-icon-pdp icon-icon_wishlist</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/main[@class=&quot;PDP&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;PDPLeftRightBox&quot;]/div[@class=&quot;PDPLeftBox&quot;]/div[@class=&quot;PDPImgBox clearfix&quot;]/div[@class=&quot;PDPImgInfo&quot;]/div[@class=&quot;buyBar&quot;]/div[@class=&quot;Add_to_wish_list wishlist-dom wishlist-pdp wishlist-unique-position&quot;]/i[@class=&quot;wishlist-icon wishlist-icon-pdp icon-icon_wishlist&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/main/div/div[2]/div/div/div[2]/div[8]/div[4]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/i</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>brandLandingPage_PLP_Product1</name>
+   <tag></tag>
+   <elementGuidId>08912959-6ff1-4581-adba-4526f6c2a7a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;adidas 愛迪達 ICE Dive 品味透涼男性淡香水 100ml&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//e2-product-thumbnail)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_ui/responsive/common/img/PRODUCT_PLACEHOLDER-PRODUCT_TILE.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original</name>
+      <type>Main</type>
+      <value>/_ui/responsive/common/img/PRODUCT_PLACEHOLDER-PRODUCT_TILE.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>adidas 愛迪達 ICE Dive 品味透涼男性淡香水 100ml</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>adidas 愛迪達 ICE Dive 品味透涼男性淡香水 100ml</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/main[@class=&quot;PLP&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;PLP_content&quot;]/div[@class=&quot;contentRight&quot;]/div[@class=&quot;ProductSales&quot;]/div[@class=&quot;bottomProductSales&quot;]/div[@class=&quot;productItemContainer&quot;]/div[@class=&quot;productItemPhotoContainer&quot;]/div[@class=&quot;productItemPhoto&quot;]/a[@class=&quot;ClickSearchResultEvent_Class gtmAlink&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/main/div/div[2]/div[2]/div[5]/div/div/div/div/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='adidas 愛迪達 ICE Dive 品味透涼男性淡香水 100ml']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>

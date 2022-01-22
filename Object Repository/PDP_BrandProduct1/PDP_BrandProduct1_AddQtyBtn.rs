@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PDP_BrandProduct1_AddQtyBtn</name>
+   <tag></tag>
+   <elementGuidId>f7f13705-2473-4897-901a-8816dfb60785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-add</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//cx-item-counter/button[contains(text(),'+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-add</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/main[@class=&quot;PDP&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;PDPLeftRightBox&quot;]/div[@class=&quot;PDPLeftBox&quot;]/div[@class=&quot;PDPImgBox clearfix&quot;]/div[@class=&quot;PDPImgInfo&quot;]/div[@class=&quot;buyBar&quot;]/div[@class=&quot;count&quot;]/div[@class=&quot;add active hidden-xs hidden-sm&quot;]/i[@class=&quot;icon-add&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/main/div/div[2]/div/div/div[2]/div[8]/div/div[2]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/i</value>
+   </webElementXpaths>
+</WebElementEntity>

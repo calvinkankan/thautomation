@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5</description>
+   <name>SR - Member Login and Profile Update</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f0c3f13-c5e4-42f5-ab0a-ba3ab4854afe</testCaseGuid>
+   <variable>
+      <defaultValue>'autotesting@varmeego.com'</defaultValue>
+      <description></description>
+      <id>fd10bb0f-35a6-4176-a659-0433d02c604f</id>
+      <masked>false</masked>
+      <name>login_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Aa111111'</defaultValue>
+      <description></description>
+      <id>446aac6c-d73b-42da-bab9-a34e2175361d</id>
+      <masked>false</masked>
+      <name>login_password</name>
+   </variable>
+</TestCaseEntity>

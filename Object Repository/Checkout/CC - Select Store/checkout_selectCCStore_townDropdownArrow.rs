@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkout_selectCCStore_townDropdownArrow</name>
+   <tag></tag>
+   <elementGuidId>f3b52b6d-c83a-4cdd-8de9-9d39906359e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.width.reset-bootstrp-select.need-show-red > div.btn-group.bootstrap-select > button.btn.dropdown-toggle.btn-default > span.bs-caret > span.caret</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='searchStore']/div[2]/div/div/button/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchStore&quot;)/div[@class=&quot;input2 clearfix&quot;]/div[@class=&quot;width reset-bootstrp-select need-show-red&quot;]/div[@class=&quot;btn-group bootstrap-select&quot;]/button[@class=&quot;btn dropdown-toggle btn-default&quot;]/span[@class=&quot;bs-caret&quot;]/span[@class=&quot;caret&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchStore']/div[2]/div/div/button/span[2]/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/span[2]/span</value>
+   </webElementXpaths>
+</WebElementEntity>

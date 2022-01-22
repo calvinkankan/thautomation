@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1</description>
+   <name>SR - Store Locator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ce3062b-07a0-4a6a-81af-054e95bf5996</testCaseGuid>
+   <variable>
+      <defaultValue>'autotesting@varmeego.com'</defaultValue>
+      <description></description>
+      <id>2c70f3f1-8560-42e9-a61b-cc8f95809970</id>
+      <masked>false</masked>
+      <name>login_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Aa111111'</defaultValue>
+      <description></description>
+      <id>2fc91537-2e28-4553-9efd-adbdf2eafb91</id>
+      <masked>false</masked>
+      <name>login_password</name>
+   </variable>
+</TestCaseEntity>
